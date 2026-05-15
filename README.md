@@ -14,7 +14,7 @@ This is a score attack game where you grow a frog by feeding it while avoiding f
 
 
 **操作方法**<br>
-矢印キー/←→　左右移動<br>
+矢印キー/←→　左右移動/Move left and right<br>
 スペースかスマホのB/space or B 　カエルを持ち上げるlift tha frog<br>
 ボタンを離すとカエルを下ろします/When you release the button, the frog will go down.<br>
 <br>
@@ -32,5 +32,6 @@ If the frog eats a lot, it gradually grows bigger. The bigger it gets, the slowe
 <br>
 **凶器**<br>
 <img width="271" height="244" alt="かえるあいこん2" src="https://github.com/user-attachments/assets/02ffb55e-46b8-4bbb-85fd-fcfde79260b7" /><br>
-毒キノコ　カエルが小さくなっちゃいます<br>
-ナイフ　カエルの体力が一個減っちゃいます。<br>
+毒キノコ　カエルが小さくなっちゃいます/Poison: The frog will become small<br>
+ナイフ　カエルの体力が一個減っちゃいます/Knife: The frog's health decreases by one.<br>
+爆弾　食べたら即ゲームオーバーです。/If you eat a bomb, it's game over immediately.<br>
