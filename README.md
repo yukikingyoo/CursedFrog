@@ -37,7 +37,8 @@ If the frog eats a lot, it gradually grows bigger. The bigger it gets, the slowe
 爆弾　食べたら即ゲームオーバーです。/If you eat a bomb, it's game over immediately.<br>
 <br>
 **ラッキーアイテム**<br>
-<img width="785" height="125" alt="かえるあいこん３" src="https://github.com/user-attachments/assets/9b16b4c5-4a8b-45a9-b305-358dd4cc2462" /><br>
+<img width="315" height="161" alt="かえるあいこん１" src="https://github.com/user-attachments/assets/6e52ac77-d76a-4bde-bad8-bf7cce348165" />
+<br>
 オレンジカエル　数秒間スピードアップ/orange frog SPEED UP<br>
 グリーンカエル　体力一個回復/green frog One health recovered<br>
 <br>
