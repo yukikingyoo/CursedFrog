@@ -31,7 +31,7 @@ If the frog eats a lot, it gradually grows bigger. The bigger it gets, the slowe
 <br>
 <br>
 **凶器**<br>
-食べちゃだめなやつ。カエルを持ち上げていれば当たりません。Things that frogs should not eat. If you lift the frog, it won't hit Frog.
+食べちゃだめなやつ。カエルを持ち上げていれば当たりません。Objects you shouldn't hit the frog with. They won't hit if you're holding the frog up.
 <img width="271" height="244" alt="かえるあいこん2" src="https://github.com/user-attachments/assets/02ffb55e-46b8-4bbb-85fd-fcfde79260b7" /><br>
 毒キノコ　カエルが小さくなっちゃいます/Poison: The frog will become small<br>
 ナイフ　カエルの体力が一個減っちゃいます/Knife: The frog's health decreases by one.<br>
