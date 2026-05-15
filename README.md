@@ -35,3 +35,9 @@ If the frog eats a lot, it gradually grows bigger. The bigger it gets, the slowe
 毒キノコ　カエルが小さくなっちゃいます/Poison: The frog will become small<br>
 ナイフ　カエルの体力が一個減っちゃいます/Knife: The frog's health decreases by one.<br>
 爆弾　食べたら即ゲームオーバーです。/If you eat a bomb, it's game over immediately.<br>
+<br>
+**ラッキーアイテム**<br>
+<img width="785" height="125" alt="かえるあいこん３" src="https://github.com/user-attachments/assets/9b16b4c5-4a8b-45a9-b305-358dd4cc2462" /><br>
+オレンジカエル　数秒間スピードアップ/orange frog SPEED UP<br>
+グリーンカエル　体力一個回復/green frog One health recovered<br>
+<br>
