@@ -1,5 +1,5 @@
 **Cused Frog game**<br>
-こちらから遊べますPLAY↓<br>
+音量注意。こちらから遊べますPLAY↓<br>
 https://yukikingyoo.github.io/CursedFrog/
 
 **キャラクター**<br>
